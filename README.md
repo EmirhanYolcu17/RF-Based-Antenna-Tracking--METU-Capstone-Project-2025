@@ -1,9 +1,8 @@
 # RF-Based-Antenna-Tracking--METU-Capstone-Project-2025
-# RF-based Antenna Tracking System (RFATS)
 
 **Capstone Project — Middle East Technical University (METU) Electrical and Electronics Engineering**  
 **Project Period:** September 2024 – May 2025  
-**Team:** Alkım Bozkurt, Emirhan Yolcu, Sevda Sıla Yıldız, Özgür Akyaz, Bora Özkan  
+**Team:**  Emirhan Yolcu, Alkım Bozkurt, Sevda Sıla Yıldız, Özgür Akyaz, Bora Özkan  
 **Supervisors:** METU EEE Design Studio – Section 4  
 
 ---
@@ -40,6 +39,13 @@ The system consists of five main subsystems:
 5. **Power System** – Powered by a 3-cell 2800 mAh Li-Po battery with over-discharge protection.
 
 A full system explanation, hardware schematics, and test results are documented in the PDF report below.
+
+---
+### 🧩 3D Mechanical Design
+
+Below is the final 3D model of the RF-based Antenna Tracking System, designed and assembled in Autodesk Fusion 360:
+
+![3D Model of RFATS](./3d_model.jpg)
 
 ---
 
