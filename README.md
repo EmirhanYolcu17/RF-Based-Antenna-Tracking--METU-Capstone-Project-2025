@@ -3,7 +3,7 @@
 **Capstone Project — Middle East Technical University (METU) Electrical and Electronics Engineering**  
 **Project Period:** September 2024 – May 2025  
 **Team:**  Emirhan Yolcu, Alkım Bozkurt, Sevda Sıla Yıldız, Özgür Akyaz, Bora Özkan  
-**Supervisors:** METU EEE Design Studio – Section 4  
+**Supervisor:** Asst. Prof. HASAN ULUŞAN
 
 ---
 
