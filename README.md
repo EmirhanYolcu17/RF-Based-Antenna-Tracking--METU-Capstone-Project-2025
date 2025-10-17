@@ -69,17 +69,6 @@ This document covers:
 
 - **1st Place — 2025 METU EEE Capstone Project Competition**  
 - Completed design, hardware fabrication, and validation within a 9-month project cycle.  
-- Demonstrated robust tracking performance under controlled laboratory conditions.
+- Demonstrated robust tracking performance under real life environments.
 
----
 
-## 🔗 References
-
-- [Analog Devices ADALM-PLUTO SDR](https://www.analog.com/en/products/adalm-pluto.html)  
-- [Raspberry Pi 5 Documentation](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)  
-- [TB6600 Stepper Driver Datasheet](https://toshiba.semicon-storage.com)  
-
----
-
-📬 *For inquiries:*  
-Sevda Sıla Yıldız – [LinkedIn](https://www.linkedin.com/) | sevda.silayildiz@example.com  
