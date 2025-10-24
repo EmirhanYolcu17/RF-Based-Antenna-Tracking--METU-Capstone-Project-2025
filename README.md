@@ -59,8 +59,6 @@ This document covers:
 - Test procedures and performance results  
 - Cost, schedule, and trade-off evaluations
 
-👉 **[User Manual (PDF)](./User%20Manual.pdf)**  
-
 ---
 
 ## 🧠 Key Features
