@@ -51,13 +51,15 @@ Below is the final 3D model of the RF-based Antenna Tracking System, designed an
 
 ## 📄 Report
 
-👉 **[Critical Design Review Report (PDF)](./Critical%20Design%20Review%20Report%20Dalgona.pdf)**  
+👉 **[Final Report (PDF)](./Final%20Report%20Dalgona.pdf)**  
 This document covers:
 - Requirement and system-level design  
 - Subsystem integration and synchronization  
 - Hardware selection and power analysis  
 - Test procedures and performance results  
-- Cost, schedule, and trade-off evaluations  
+- Cost, schedule, and trade-off evaluations
+
+👉 **[User Manual (PDF)](./User%20Manual.pdf)**  
 
 ---
 
